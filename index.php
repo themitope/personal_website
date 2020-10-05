@@ -5,8 +5,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Personal Website</title>
-    <link rel="icon" href="img/favicon.png">
+    <title>Portfolio</title>
+   <!--  <link rel="icon" href="img/favicon.png"> -->
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- animate CSS -->
@@ -37,7 +37,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="index.html"> <img src="img/logo.png" alt="logo"> </a>
+                        <a class="navbar-brand" href="./"> <span style="font-size: 25px; font-family: Verdana; color: #ea5267; font-weight: 500px;">TTech</span> </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -82,10 +82,10 @@
                         <div class="banner_text_iner">
                             <div class="">
                                 <ul class="list-inline social">
-                                     <li class="list-inline-item"><a href="#"><i class="fab fa-facebook"></i></a></li>
-                                     <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                     <li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                     <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                     <li class="list-inline-item"><a href="https://www.facebook.com/ogunleye.oluwatosin.393"><i class="fab fa-facebook"></i></a></li>
+                                     <li class="list-inline-item"><a href="https://twitter.com/the_mi_tope"><i class="fab fa-twitter"></i></a></li>
+                                     <li class="list-inline-item"><a href="https://www.instagram.com/the_mi_tope/"><i class="fab fa-instagram"></i></a></li>
+                                     <li class="list-inline-item"><a href="https://www.linkedin.com/in/ogunleye-oluwatosin-00443b189/"><i class="fab fa-linkedin"></i></a></li>
                                 </ul>
                             </div><br>
                             <div class="mt-5">
@@ -452,16 +452,16 @@
                  </div>
                  <div class="col-lg-6">
                     <ul class="list-inline footer-social">
-                     <li class="list-inline-item"><a href="#"><i class="fab fa-facebook"></i></a></li>
-                     <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                     <li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
-                     <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                     <li class="list-inline-item"><a href="https://www.facebook.com/ogunleye.oluwatosin.393"><i class="fab fa-facebook"></i></a></li>
+                     <li class="list-inline-item"><a href="https://twitter.com/the_mi_tope"><i class="fab fa-twitter"></i></a></li>
+                     <li class="list-inline-item"><a href="https://www.instagram.com/the_mi_tope/"><i class="fab fa-instagram"></i></a></li>
+                     <li class="list-inline-item"><a href="https://www.linkedin.com/in/ogunleye-oluwatosin-00443b189/"><i class="fab fa-linkedin"></i></a></li>
                     </ul>
                  </div>
                  <div class="col-lg-12">
                     <div class="copyright_part text-center">
                         <p class="footer-text m-0">
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | www.ogunleyeoluwatosin.com
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | ogunleyeoluwatosin.herokuapp.com
                         </p>
 
                     </div> 
