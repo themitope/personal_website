@@ -37,7 +37,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="./"> <span style="font-size: 25px; font-family: Verdana; color: #ea5267; font-weight: 500px;">TTech</span> </a>
+                        <a class="navbar-brand text-white" href="./"> <span style="font-size: 25px; font-family: Verdana; color: #ea5267; font-weight: 500px;">TTech</span> </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -47,22 +47,22 @@
                         <div class="collapse navbar-collapse main-menu-item" id="navbarSupportedContent">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="./">Home</a>
+                                    <a class="nav-link" href="./" style="color: #ea5267; font-weight: bold">Home</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="#about">About</a>
+                                    <a class="nav-link" href="#about" style="color: #ea5267; font-weight: bold">About</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="#services">Services</a>
+                                    <a class="nav-link" href="#services" style="color: #ea5267; font-weight: bold">Services</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="#skills">Skills</a>
+                                    <a class="nav-link" href="#skills" style="color: #ea5267; font-weight: bold">Skills</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="#portfolio">Portfolio</a>
+                                    <a class="nav-link" href="#portfolio" style="color: #ea5267; font-weight: bold">Portfolio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#contact">Contact</a>
+                                    <a class="nav-link" href="#contact" style="color: #ea5267; font-weight: bold">Contact</a>
                                 </li>
                             </ul>
                         </div>
@@ -77,7 +77,7 @@
     <section class="banner_part">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-7">
+                <div class="col-lg-12">
                     <div class="banner_text">
                         <div class="banner_text_iner">
                             <div class="">
@@ -99,7 +99,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <img src="img/tosin.png" class="img-fluid" id="tosin_image">
+                   <!--  <img src="img/tosin.png" class="img-fluid" id="tosin_image"> -->
                 </div>
             </div>
         </div>

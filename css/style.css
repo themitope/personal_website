@@ -2415,21 +2415,22 @@ ul {
 /**************** banner part css start ****************/
 /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
 .banner_part {
-  height: 950px;
+  height: 900px;
   position: relative;
   /*background-image: url(../img/banner_bg_1.png);*/
   background-repeat: no-repeat;
-  background-size: contain;
-  background-position: right bottom;
+  background-size: 100%;
+  /*background-position: right bottom;*/
   z-index: 2;
   background-color: #0d0f5b;
+  background-image: url("../img/tosin1.jpg");
 }
 
 @media (max-width: 991px) {
-  /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
+  /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss 
   .banner_part {
-    height: 650px;
-    background-image: none;
+    height: 600px;
+    background-image: url("../img/tosin1.jpg");
   }
 }
 
@@ -2437,6 +2438,7 @@ ul {
   /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
   .banner_part {
     height: 700px;
+    background-image: url("../img/tosin1.jpg");
   }
 }
 
@@ -2485,7 +2487,7 @@ ul {
   .banner_part .banner_text {
     text-align: center;
     padding-top: 0px;
-    height: 700px;
+    height: 850px;
   }
 }
 
@@ -2494,7 +2496,7 @@ ul {
   .banner_part .banner_text {
     text-align: center;
     padding-top: 0px;
-    height: 700px;
+    height: 850px;
   }
 }
 
@@ -2503,14 +2505,14 @@ ul {
   .banner_part .banner_text {
     text-align: center;
     padding-top: 0px;
-    height: 700px;
+    height: 850px;
   }
 }
 
 @media only screen and (min-width: 991px) and (max-width: 1200px) {
   /* line 43, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
   .banner_part .banner_text {
-    height: 700px;
+    height: 850px;
   }
 }
 
