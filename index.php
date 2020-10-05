@@ -47,22 +47,22 @@
                         <div class="collapse navbar-collapse main-menu-item" id="navbarSupportedContent">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a class="nav-link text-white" href="./" style="font-weight: bold">Home</a>
+                                    <a class="nav-link" href="./" style="font-weight: bold; color: #ea5267;">Home</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link text-white" href="#about" style="font-weight: bold">About</a>
+                                    <a class="nav-link" href="#about" style="font-weight: bold; color: #ea5267;">About</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link text-white" href="#services" style="font-weight: bold">Services</a>
+                                    <a class="nav-link" href="#services" style="font-weight: bold; color: #ea5267;">Services</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link text-white" href="#skills" style="font-weight: bold">Skills</a>
+                                    <a class="nav-link" href="#skills" style="font-weight: bold; color: #ea5267;">Skills</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link text-white" href="#portfolio" style="font-weight: bold">Portfolio</a>
+                                    <a class="nav-link" href="#portfolio" style="font-weight: bold; color: #ea5267;">Portfolio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link text-white" href="#contact" style="font-weight: bold">Contact</a>
+                                    <a class="nav-link" href="#contact" style="font-weight: bold; color: #ea5267;">Contact</a>
                                 </li>
                             </ul>
                         </div>
