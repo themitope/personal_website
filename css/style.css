@@ -2423,14 +2423,15 @@ ul {
   /*background-position: right bottom;*/
   z-index: 2;
   background-color: #0d0f5b;
-  background-image: url("../img/tosin1.jpg");
+  background-image: url("../img/tosin2.png");
+
 }
 
 @media (max-width: 991px) {
   /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss 
   .banner_part {
     height: 600px;
-    background-image: url("../img/tosin1.jpg");
+    background-image: url("../img/tosin2.png");
   }
 }
 
@@ -2438,7 +2439,7 @@ ul {
   /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
   .banner_part {
     height: 700px;
-    background-image: url("../img/tosin1.jpg");
+    background-image: url("../img/tosin2.png");
   }
 }
 

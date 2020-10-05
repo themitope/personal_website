@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Portfolio</title>
+    <title>Oluwatosin's Portfolio</title>
    <!--  <link rel="icon" href="img/favicon.png"> -->
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -47,22 +47,22 @@
                         <div class="collapse navbar-collapse main-menu-item" id="navbarSupportedContent">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="./" style="color: #ea5267; font-weight: bold">Home</a>
+                                    <a class="nav-link text-white" href="./" style="font-weight: bold">Home</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="#about" style="color: #ea5267; font-weight: bold">About</a>
+                                    <a class="nav-link text-white" href="#about" style="font-weight: bold">About</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="#services" style="color: #ea5267; font-weight: bold">Services</a>
+                                    <a class="nav-link text-white" href="#services" style="font-weight: bold">Services</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="#skills" style="color: #ea5267; font-weight: bold">Skills</a>
+                                    <a class="nav-link text-white" href="#skills" style="font-weight: bold">Skills</a>
                                 </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="#portfolio" style="color: #ea5267; font-weight: bold">Portfolio</a>
+                                    <a class="nav-link text-white" href="#portfolio" style="font-weight: bold">Portfolio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#contact" style="color: #ea5267; font-weight: bold">Contact</a>
+                                    <a class="nav-link text-white" href="#contact" style="font-weight: bold">Contact</a>
                                 </li>
                             </ul>
                         </div>
