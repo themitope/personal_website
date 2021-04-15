@@ -84,12 +84,12 @@
                                 <ul class="list-inline social">
                                      <li class="list-inline-item"><a href="https://www.facebook.com/ogunleye.oluwatosin.393"><i class="fab fa-facebook"></i></a></li>
                                      <li class="list-inline-item"><a href="https://twitter.com/the_mi_tope"><i class="fab fa-twitter"></i></a></li>
-                                     <li class="list-inline-item"><a href="https://www.instagram.com/the_mi_tope/"><i class="fab fa-instagram"></i></a></li>
+                                     <li class="list-inline-item"><a href="https://github.com/themitope?tab=repositories"><i class="fab fa-github"></i></a></li>
                                      <li class="list-inline-item"><a href="https://www.linkedin.com/in/ogunleye-oluwatosin-00443b189/"><i class="fab fa-linkedin"></i></a></li>
                                 </ul>
                             </div><br>
                             <div class="mt-5">
-                              <h2 id="typewriter">I am Ogunleye Oluwatosin</h2>  
+                              <h2 id="typewriter">Ogunleye Oluwatosin</h2>  
                             </div><br>
                             <h3 class="mt-3" style="font-size: 30px; color: #ddd" id="my_title">I am a Web Developer with 3 years experience in the field</h3>
                             <div class="banner_btn mt-5">
@@ -311,6 +311,9 @@
                         <p class="mt-3" style="color: #ccc; font-size: 18px; font-family: Candara">PHP and MySQL</p>
                       </div>
                       <div class="col-lg-12">
+                        <p class="mt-3" style="color: #ccc; font-size: 18px; font-family: Candara">Laravel</p>
+                      </div>
+                      <div class="col-lg-12">
                         <p class="mt-3" style="color: #ccc; font-size: 18px; font-family: Candara">JavaScript (Jquery)</p>
                       </div>
                       <div class="col-lg-12">
@@ -323,12 +326,15 @@
                         <p class="mt-3" style="color: #ccc; font-size: 18px; font-family: Candara">Node JS and MongoDB</p>
                       </div>
                        <div class="col-lg-12">
-                        <p class="mt-3" style="color: #ccc; font-size: 18px; font-family: Candara">Plotagon</p>
+                        <p class="mt-3" style="color: #ccc; font-size: 18px; font-family: Candara">Vue.Js</p>
                       </div>
                    </div> 
                </div>
                <div class="col-md-6">
                   <div class="row mt-4">
+                    <div class="col-lg-12">
+                        <p class="mt-3" style="color: #ccc; font-size: 18px; font-family: Candara">Plotagon</p>
+                      </div>
                       <div class="col-lg-12">
                         <p class="mt-3" style="color: #ccc; font-size: 18px; font-family: Candara">Bootstrap</p>
                       </div>
@@ -454,7 +460,7 @@
                     <ul class="list-inline footer-social">
                      <li class="list-inline-item"><a href="https://www.facebook.com/ogunleye.oluwatosin.393"><i class="fab fa-facebook"></i></a></li>
                      <li class="list-inline-item"><a href="https://twitter.com/the_mi_tope"><i class="fab fa-twitter"></i></a></li>
-                     <li class="list-inline-item"><a href="https://www.instagram.com/the_mi_tope/"><i class="fab fa-instagram"></i></a></li>
+                     <li class="list-inline-item"><a href="https://github.com/themitope?tab=repositories"><i class="fab fa-github"></i></a></li>
                      <li class="list-inline-item"><a href="https://www.linkedin.com/in/ogunleye-oluwatosin-00443b189/"><i class="fab fa-linkedin"></i></a></li>
                     </ul>
                  </div>
