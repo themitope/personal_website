@@ -379,7 +379,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-2"></div>
-                            <div class="col-md-10" style="font-size: 18px; font-family: Candara; color: #ccc">Uncle Joe, Mokola Ibadan</div>
+                            <div class="col-md-10" style="font-size: 18px; font-family: Candara; color: #ccc">Fagbamila Street, Gate Ibadan</div>
                         </div>
                     </div>
                </div>
@@ -387,7 +387,7 @@
                     <div class="card mb-4 mb-xl-0 address">
                         <div class="row">
                             <div class="col-md-2"><span><i class="fa fa-phone"></i></span></div>
-                            <div class="col-md-8 text-white" style="font-size: 18px; font-family: Candara; font-weight: bold">Give us a call</div>
+                            <div class="col-md-8 text-white" style="font-size: 18px; font-family: Candara; font-weight: bold">Give me a call</div>
                         </div>
                         <div class="row">
                             <div class="col-md-2"></div>
@@ -399,7 +399,7 @@
                     <div class="card mb-4 mb-xl-0 address">
                         <div class="row">
                             <div class="col-md-2"><span><i class="fa fa-envelope"></i></span></div>
-                            <div class="col-md-8 text-white" style="font-size: 18px; font-family: Candara; font-weight: bold">Send us a mail</div>
+                            <div class="col-md-8 text-white" style="font-size: 18px; font-family: Candara; font-weight: bold">Send me a mail</div>
                         </div>
                         <div class="row">
                             <div class="col-md-2"></div>
